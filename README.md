@@ -9,7 +9,7 @@ Improve employee retention
 
 Optimize workforce planning
 
-Build a more productive, engaged, and stable workplace
+Build a more productive, engaged, and stable workplace 
 
 📊 📈 What the Dashboard Reveals
 
